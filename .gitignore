@@ -17,3 +17,4 @@ Library/
 xcuserdata
 *.pbxuser
 libiPhone-lib.a
+libil2cpp.a
